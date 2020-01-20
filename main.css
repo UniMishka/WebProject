@@ -3,9 +3,12 @@ body{
 }
 #div2{
 	background-color: black;
+    margin:0 auto;
+    width: 970px;
 }
 #a1{
 	color: white;
-	margin-left:170px;
-	margin-right:1px;
+}
+#ul1 li{
+	display: inline;
 }
