@@ -24,8 +24,8 @@ body{
 .news{
 	margin-left: 320px;
 	background-color: white;
-	margin-top: -389px;
-	padding-top: 139px;
+	margin-top: -411px;
+	padding-top: 147px;
 	width: 200px;
 }
 .img1{
@@ -39,8 +39,8 @@ body{
 }
 #div4{
 	margin-left: 520px;
-	margin-top: -390px;
-	padding-top: 252px;
+	margin-top: -411px;
+	padding-top: 267px;
 	background-color: white;
 }
 .navbar navbar-expand-lg navbar-light bg-light{
@@ -51,7 +51,7 @@ body{
 }
 #div5{
 	background-color: white;
-    margin-left: 1px;
+    margin-left: 0px;
 }
 #li3{
 	background-color: white;
@@ -67,14 +67,48 @@ body{
 	background-color: #f3e7bd;
 	margin-top: -16px;
 	width: 350px;
-	margin-left: 20px;
+	margin-left: 8px;
+	border-bottom: 2px solid #999 !important;
 }
 #div8{
 	background-color: white;
 	margin-top: -8px;
 	width: 350px;
-	margin-left: 20px;
+	margin-left: 8px;
 }
 #h42{
 	color: #003366;
+}
+#hr1{
+	font-size: 30px;
+}
+#p1{
+	font-size: 12px;
+}
+#h2{
+	font-size: 20px;
+	text-align: center;
+}
+#div9{
+	background: #e4e6e8 !important;
+	width: 350px;
+	margin-left: 367px;
+}
+#h3{
+	font-size: 20px;
+	text-align: center;
+}
+#h4{
+	background-color: white;
+	color: #003366;
+	width: 350px;
+	margin-left: 0px;
+}
+#div10{
+	width: 350px;
+	margin-left: 367px;
+	background-color: white;
+}
+#img2{
+	float: left;
 }
