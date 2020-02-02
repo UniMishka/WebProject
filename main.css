@@ -112,3 +112,29 @@ body{
 #img2{
 	float: left;
 }
+#h5{
+	color: #333333;
+	background-color: #8BE6FF;
+	text-align: center;
+	width: 250px;
+	font-size: 18px;
+	margin-left: 720px;
+}
+#h6{
+	width: 250px;
+	font-size: 18px;
+	margin-left: 720px;
+	background-color: #9794A8;
+	font-size: 20px;
+}
+#img6{
+	float: right;
+}
+#p2{
+	width: 250px;
+	font-size: 18px;
+	margin-left: 720px;
+	background-color: #9794A8;
+	font-size: 20px;
+	color: #003366;
+}
