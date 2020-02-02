@@ -24,8 +24,8 @@ body{
 .news{
 	margin-left: 320px;
 	background-color: white;
-	margin-top: -411px;
-	padding-top: 115px;
+	margin-top: -389px;
+	padding-top: 139px;
 	width: 200px;
 }
 .img1{
@@ -39,8 +39,8 @@ body{
 }
 #div4{
 	margin-left: 520px;
-	margin-top: -411px;
-	padding-top: 259px;
+	margin-top: -390px;
+	padding-top: 252px;
 	background-color: white;
 }
 .navbar navbar-expand-lg navbar-light bg-light{
@@ -65,4 +65,16 @@ body{
 }
 #div7{
 	background-color: #f3e7bd;
+	margin-top: -16px;
+	width: 350px;
+	margin-left: 20px;
+}
+#div8{
+	background-color: white;
+	margin-top: -8px;
+	width: 350px;
+	margin-left: 20px;
+}
+#h42{
+	color: #003366;
 }
