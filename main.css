@@ -18,29 +18,21 @@ body{
 }
 #div3{
 	background-color: white;
-	width: 320px;
-	margin-left: 0px;
+	width: 970px;
+	padding: 5px 10px;
+	display: flex;
+	flex-direction: row;
 }
 .news{
-	margin-left: 320px;
 	background-color: white;
-	margin-top: -411px;
-	padding-top: 147px;
-	width: 200px;
-}
-.img1{
-	float: left;
-	width: 180px;
-	height: 287px;
+	display: flex;
+	flex-direction: row;
+	padding-left: 10px;
 }
 #li2{
 	font-size: 13px;
-	margin-left: 155px;
 }
 #div4{
-	margin-left: 520px;
-	margin-top: -411px;
-	padding-top: 267px;
 	background-color: white;
 }
 .navbar navbar-expand-lg navbar-light bg-light{
@@ -65,14 +57,11 @@ body{
 }
 #div7{
 	background-color: #f3e7bd;
-	margin-top: -16px;
 	width: 350px;
-	margin-left: 8px;
 	border-bottom: 2px solid #999 !important;
 }
 #div8{
 	background-color: white;
-	margin-top: -8px;
 	width: 350px;
 	margin-left: 8px;
 }
@@ -92,7 +81,6 @@ body{
 #div9{
 	background: #e4e6e8 !important;
 	width: 350px;
-	margin-left: 367px;
 }
 #h3{
 	font-size: 20px;
@@ -106,7 +94,6 @@ body{
 }
 #div10{
 	width: 350px;
-	margin-left: 367px;
 	background-color: white;
 }
 #img2{
@@ -118,12 +105,10 @@ body{
 	text-align: center;
 	width: 250px;
 	font-size: 18px;
-	margin-left: 720px;
 }
 #h6{
 	width: 250px;
 	font-size: 18px;
-	margin-left: 720px;
 	background-color: #9794A8;
 	font-size: 20px;
 }
@@ -133,8 +118,21 @@ body{
 #p2{
 	width: 250px;
 	font-size: 18px;
-	margin-left: 720px;
 	background-color: #9794A8;
 	font-size: 20px;
 	color: #003366;
+}
+.person{
+	display:flex;
+	flex-direction: row;
+}
+.persCont{
+}
+.image{
+	width: 149px;
+	height: 150px;
+}
+.ul{
+	font-size: 0.75em;
+	min-width:300px;
 }
