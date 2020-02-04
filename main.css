@@ -54,7 +54,7 @@ body{
 }
 #div7{
 	background-color: #f3e7bd;
-	min-width: 320px;
+	min-width: 180px;
 	border-bottom: 2px solid #999 !important;
 	display: flex;
 	flex-direction: row;
@@ -63,11 +63,10 @@ body{
 #div8{
 	background-color: white;
 	margin-left: 8px;
-	min-width: 320px;
 	display: flex;
 	flex-direction: row;
-	min-height: 50px;
 	float: left;
+	max-height: 280px;
 }
 #h42{
 	color: #003366;
@@ -77,15 +76,15 @@ body{
 }
 #p1{
 	font-size: 12px;
+	margin-top: 1px;
 }
 #h2{
 	font-size: 20px;
 	text-align: center;
-	min-height: 50px;
+	min-height: 100px;
 }
 #div9{
 	background: #e4e6e8 !important;
-	min-width: 320px;
 	display: flex;
 	flex-direction: row;
 	max-height: 50px;
@@ -103,10 +102,10 @@ body{
 }
 #div10{
 	background-color: white;
-	min-width: 320px;
+	min-width: 280px;
 	display: flex;
 	flex-direction: row;
-	min-height: 300px;
+	max-height: 255px;
 }
 #img2{
 	float: left;
@@ -124,7 +123,7 @@ body{
 	font-size: 18px;
 	background-color: #9794A8;
 	font-size: 20px;
-	min-height: 50px;
+	max-height: 50px;
 }
 #img6{
 	float: right;
@@ -153,13 +152,13 @@ body{
 #div11{
 	display: flex;
 	flex-direction: row;
-	min-width: 320px;
 }
 #div6{
 	display: flex;
 	flex-direction: row;
 	background-color: #99a1b1;
 	width: 970px;
+	height: 1200px;
 }
 h4{
 	max-height: 50px;
@@ -167,7 +166,4 @@ h4{
 #div4{
 	display: flex;
 	flex-direction: row;
-	min-width: 320px;
-	min-height: 50px;
-
 }
