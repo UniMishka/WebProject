@@ -74,6 +74,7 @@ body{
 }
 #hr1{
 	font-size: 30px;
+	margin-left: 10px;
 }
 #p1{
 	font-size: 12px;
@@ -93,7 +94,7 @@ body{
 	display: flex;
 	flex-direction: row;
 }
-#h4{
+#a4{
 	background-color: white;
 	color: #003366;
 	margin-left: 0px;
@@ -125,10 +126,6 @@ body{
 }
 .persCont{
 }
-#img1{
-	width: 149px;
-	height: 150px;
-}
 .ul{
 	font-size: 0.75em;
 	min-width:300px;
@@ -142,12 +139,8 @@ body{
 	flex-direction: column;
 	background-color: #99a1b1;
 	width: 970px;
-<<<<<<< HEAD
 	height: 3000px;
-=======
-	height: 2000px;
 	padding-top: 10px;
->>>>>>> 0c7bde483514e4c3bd443bb8a058367240084d15
 }
 h4{
 	font-size: 18px;
@@ -208,7 +201,7 @@ h4{
 	flex-direction: column;
 	justify-content: left;
 	max-width: 150px;
-	min-height: 500px;
+	min-height: 705px;
     margin-left: 10px;
     border-radius: 10px;
     margin-top: 10px;
@@ -222,7 +215,6 @@ h4{
 	justify-content: center;
 	width:90px; 
     height:90px;
-<<<<<<< HEAD
     margin-left: 27px;
 }
 #a2{
@@ -240,6 +232,7 @@ h4{
 }
 #h1{
 	background-color: #FFD98E;
+	font-size: 15px !important;
 }
 #img2{
 	width:60px;
@@ -251,8 +244,8 @@ h4{
 	background-color: white;
 	float: right;
 	border-radius: 10px;
-	margin-left: 1px; 
-	margin-top: 1px;
+	margin-left: 450px;
+    margin-top: -887px;
 }
 #p3{
 	font-size: .625em;
@@ -272,12 +265,13 @@ h4{
 }
 #p34{
 	font-size: .625em;
+	margin-left: 70px;
 }
-#h2{
-	background-color: #A2A2A2;
+#h8{
+	background: #e4e6e8 !important;
 	width: 245px;
 	margin-left: 0px;
-=======
+	font-size: 15px !important;
 }
 #a9{
 	color: #036;
@@ -295,5 +289,33 @@ h4{
 	color: #003366;
     font-weight: bold;
     text-decoration: none;
->>>>>>> 0c7bde483514e4c3bd443bb8a058367240084d15
+}
+#Russian{
+	display: flex;
+	flex-direction: column;
+	width: 255px;
+	background-color: #e4e6e8;
+	margin-left: 705px;
+    margin-top: -579px;
+    height: 500px;
+    border-radius: 10px;
+}
+#a12{
+	background: #c3d6e9;
+	font-size: 15px !important;
+}
+#img5{
+	margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+#a13{
+	font-size: .75em;
+	margin-left: 100px;
+    margin-top: -82px;
+}
+#a14{
+	color: #003366;
+    font-size: 11px;
+    margin-left: 10px;
 }
