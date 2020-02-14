@@ -74,16 +74,17 @@ body{
 }
 #hr1{
 	font-size: 30px;
-	margin-left: 10px;
+	margin-left: -11px;
 }
 #p1{
 	font-size: 12px;
 	margin-top: 1px;
 }
 #h2{
-    background-color: #f3e7bd;
-    margin-left: -10px;
-    margin-right: -10px;
+	width: 314px;
+	background: #f3e7bd !important; 
+	margin-left: -5px;
+    margin-top: -5px;
 }   
 #a6{
 	color: #384455;
@@ -96,8 +97,9 @@ body{
 }
 #a4{
 	background-color: white;
-	color: #003366;
+    color: #003366;
 	margin-left: 0px;
+	text-decoration: none
 }
 #div10{
 	background-color: white;
@@ -119,6 +121,8 @@ body{
 }
 #img6{
 	float: right;
+	width: 80px;
+	height: 80px;
 }
 .person{
 	display:flex;
@@ -139,7 +143,6 @@ body{
 	flex-direction: column;
 	background-color: #99a1b1;
 	width: 970px;
-	height: 3000px;
 	padding-top: 10px;
 }
 h4{
@@ -153,10 +156,10 @@ h4{
 	display: flex;
 	flex-direction: column;
 	width:314px;
-	min-height: 807px;
+	min-height: 726px;
 	background-color: white;
-	padding: 0px 10px;
 	border-radius: 10px;
+	padding: 5px 5px;
 }
 #Cont2{
 	display: flex;
@@ -164,18 +167,18 @@ h4{
 	max-width:314px;
 	background-color: white;
 	margin-left: 324px;
-	margin-top: -807px;
-	min-height: 807px;
+	margin-top: -726px;
+	min-height: 726px;
 	padding: 0px 10px;
 	border-radius: 10px;
 }
 #Cont3{
 	display: flex;
 	flex-direction: column;
-	max-width: 314px;
-	min-height: 807px;
+	max-width: 324px;
+	min-height: 726px;
 	margin-left: 646px;
-	margin-top: -807px;
+	margin-top: -726px;
 	border-radius: 10px;
 	background-color: #fff;
 }
@@ -199,12 +202,10 @@ h4{
 	background-color: white;
 	display: flex;
 	flex-direction: column;
-	justify-content: left;
 	max-width: 150px;
 	min-height: 705px;
-    margin-left: 10px;
+    margin-left: 7px;
     border-radius: 10px;
-    margin-top: 10px;
 }
 #a5{
 	font-size: 11px;
@@ -219,6 +220,8 @@ h4{
 }
 #a2{
 	font-size: 12px;
+	text-decoration: none;
+	padding: 5px 5px;
 }
 #chitaemoe{
 	background-color: white;
@@ -226,7 +229,7 @@ h4{
 	border-radius: 10px;
 	display: flex;
 	flex-direction: column;
-	justify-content: right;
+	margin-left: 7px;
 }
 #h1{
 	background-color: #FFD98E;
@@ -236,18 +239,22 @@ h4{
 	width:60px;
 	height:60px;
 	float: left;
+	margin: 10px 10px;
 }
 #mneniy{
+	display: flex;
+	flex-direction: column;
 	width: 245px;
 	background-color: white;
 	float: right;
 	border-radius: 10px;
-	margin-left: 450px;
-    margin-top: -887px;
+	margin-left: 7px;
+	height: 635px;
 }
 #p3{
 	font-size: .625em;
-	margin-left: 70px;
+	margin-left: 75px;
+    margin-top: -72px;
 }
 #p4{
     font-size: .687em;
@@ -255,15 +262,18 @@ h4{
     border-style: solid;
     border-color: #FFB440;
     background-color: #FFB440;
-    margin-left: 5px;
+    margin-left: 9px;
     margin-right: 5px;
+    margin-top: 12px;
 }
 #img3{
 	float: left;
+	margin: 10px 10px;
 }
 #p34{
 	font-size: .625em;
-	margin-left: 70px;
+	margin-left: 75px;
+    margin-top: -72px;
 }
 #h8{
 	background: #e4e6e8 !important;
@@ -280,27 +290,29 @@ h4{
 }
 #a11{
 	color: #003366;
-	font-size: 16px;
+	font-size: 11px;
     text-decoration: none;
+    padding: 5px 5px;
 }
 #a10{
 	color: #003366;
     font-weight: bold;
     text-decoration: none;
+    font-size: .75em;
 }
 #Russian{
 	display: flex;
 	flex-direction: column;
-	width: 255px;
-	background-color: #e4e6e8;
-	margin-left: 705px;
-    margin-top: -579px;
-    height: 500px;
+	width: 260px;
+	background-color: #e4e6e8;	
+    height: 520px;
     border-radius: 10px;
+    margin-left: 7px;
 }
 #a12{
 	background: #c3d6e9;
 	font-size: 15px !important;
+	text-decoration: none;
 }
 #img5{
 	margin-left: 10px;
@@ -311,9 +323,40 @@ h4{
 	font-size: .75em;
 	margin-left: 100px;
     margin-top: -82px;
+    text-decoration: none;
 }
 #a14{
 	color: #003366;
     font-size: 11px;
     margin-left: 10px;
+    text-decoration: none;
+}
+#a15{
+	font-size: 11px;
+	text-decoration: none;
+	color: black;
+}
+#a16{
+	text-decoration: none;
+	color: #003366;
+}
+#p5{
+	color: #000;
+	font-size: .75em;
+}
+#GlawCont{
+	display: flex;
+	flex-direction: row;
+	background-color: #99a1b1;
+	width: 970px;
+	padding: 20px;
+}
+#pCont2{
+	font-size: 11px;
+}
+#hr2{
+	margin-left: 5px;
+}
+#h3{
+	margin-left: 0px;
 }
