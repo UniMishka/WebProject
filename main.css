@@ -381,19 +381,25 @@ h4{
     background-color: white;
     width: 270px;
     margin-left: 7px;
-    margin-top: 5px;
+    margin-top: 10px;
     border-radius: 10px;
 }
 #h10{
-	width: 264px;
-    background: #f3e7bd !important;
+	background: #f3e7bd !important;
+    width: 270px;
     margin: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: -4px;
+    margin-top: -5px;
 }
 #a18{
     color: black;
 }
 #div19{
 	background-color: #f0eedc;
+    margin-left: -4px;
+    width: 270px;
 }
 #img15{
 	width: 80px;
@@ -427,12 +433,16 @@ h4{
     width: 270px;
     border-radius: 10px;
     margin-left: 7px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 #h12{
-	width: 264px;
+	width: 270px;
     margin: 0px;
     background: #e4e6e8 !important;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: -4px;
+    margin-top: -5px;
 }
 #h13{
 	text-align: right;
@@ -456,12 +466,16 @@ h4{
     width: 244px;
     border-radius: 10px;
     margin-left: 7px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 #H14{
-	width: 239px;
+    width: 244px;
     margin: 0px;
     background: #e4e6e8 !important;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: -4px;
+    margin-top: -5px;
 }
 #glavn4{
 
@@ -472,12 +486,16 @@ h4{
     width: 232px;
     border-radius: 10px;
     margin-left: 7px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 #h16{
-	width: 227px;
+	width: 232px;
     margin: 0px;
     background: #e4e6e8 !important;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: -4px;
+    margin-top: -5px;
 }
 #a26{
 	color: #004369;
@@ -493,16 +511,20 @@ h4{
     width: 524px;
     border-radius: 10px;
     margin-left: 183px;
-    margin-top: 5px;
+    margin-top:-28px;
 }
 #p24{
 	font-size: 11px;
 	color: #c55707;
 }
 #h17{
-	width: 519px;
+	width: 524px;
     margin: 0px;
     background: #e4e6e8 !important;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: -4px;
+    margin-top: -5px;
 }
 #a27{
 	color: #004369;
@@ -516,4 +538,27 @@ h4{
     width: 990px;
     margin-left: auto;
     margin-right: auto;
+}
+#mglavn{
+	display: flex;
+    flex-direction: row;
+    background-color: #99a1b1;
+    width: 970px;
+    padding: 20px;
+}
+#pp{
+	color: #ccc;
+    font-size: 12px;
+    margin-top: -11px;
+}
+#ap{
+	color: #ccc;
+	font-size: 12px;
+    margin-top: -11px;
+    text-decoration: underline;
+}
+#divp{
+	display: flex;
+	flex-direction: row;
+	margin-top: 4px;
 }
