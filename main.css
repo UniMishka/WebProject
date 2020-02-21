@@ -111,7 +111,13 @@ body{
 }
 #h5{
 	background-color: #c3d6e9;
-	font-size: 18px;
+    font-size: 17px;
+    color: #000;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 30px;
+    margin-top: -10px;
+    padding: 5px;
 }
 #a8{
 	color: #384455;
@@ -166,25 +172,25 @@ h4{
     margin: 2px 10px;
 }
 #Cont2{
-	display: flex;
-	flex-direction: column;
-	max-width:314px;
-	background-color: white;
-	margin-left: 324px;
-	margin-top: -726px;
-	min-height: 726px;
-	padding: 0px 10px;
-	border-radius: 10px;
+	    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    background-color: white;
+    margin-left: 335px;
+    margin-top: -726px;
+    min-height: 726px;
+    padding: 0px 10px;
+    border-radius: 10px;
 }
 #Cont3{
 	display: flex;
-	flex-direction: column;
-	max-width: 324px;
-	min-height: 726px;
-	margin-left: 646px;
-	margin-top: -726px;
-	border-radius: 10px;
-	background-color: #fff;
+    flex-direction: column;
+    max-width: 310px;
+    min-height: 726px;
+    margin-left: 646px;
+    margin-top: -726px;
+    border-radius: 10px;
+    background-color: #fff;
 }
 #img4{
 	width: 100px;
@@ -193,10 +199,15 @@ h4{
 }
 #h01{
 	font-size: 17px;
-	background: #e4e6e8;
+    background: #e4e6e8;
     color: #000;
     margin-right: -10px;
     margin-left: -10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 30px;
+    margin-top: -10px;
+    padding: 5px;
 }
 #a7{
 	color: #333;
@@ -237,7 +248,10 @@ h4{
 }
 #h1{
 	background-color: #FFD98E;
-	font-size: 15px !important;
+    font-size: 15px !important;
+    margin: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 #img2{
 	width:60px;
@@ -281,9 +295,12 @@ h4{
 }
 #h8{
 	background: #e4e6e8 !important;
-	width: 245px;
-	margin-left: 0px;
-	font-size: 15px !important;
+    width: 245px;
+    margin-left: 0px;
+    font-size: 15px !important;
+    margin: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 #a9{
 	color: #036;
@@ -315,8 +332,13 @@ h4{
 }
 #a12{
 	background: #c3d6e9;
-	font-size: 15px !important;
-	text-decoration: none;
+    text-decoration: none;
+    margin-left: 0px;
+    font-size: 15px !important;
+    margin: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: #000;
 }
 #img5{
 	margin-left: 10px;
@@ -561,4 +583,8 @@ h4{
 	display: flex;
 	flex-direction: row;
 	margin-top: 4px;
+}
+#a28{
+	text-decoration: none;
+	color: #000;
 }
