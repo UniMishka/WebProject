@@ -1,5 +1,7 @@
 body{
-	background-color: #606060;
+	background-repeat: no-repeat;
+	background-image: url("https://storge.pic2.me/c/1360x800/410/5b81b509f22b1.jpg");
+	background-size: cover;
 }
 #div1{
 	width: 970px;
@@ -12,6 +14,7 @@ body{
 }
 #a1{
     color: #ffffff;
+    margin: 16;
 }
 #ul1 li{
 	display: inline;
@@ -51,6 +54,7 @@ body{
 }
 #a3{
 	color: grey;
+	margin:2px;
 }
 #div7{
 	background-color: #f3e7bd;
@@ -128,9 +132,11 @@ body{
 	font-size: 20px;
 }
 #img6{
-	float: right;
-	width: 80px;
-	height: 80px;
+    float: left;
+    width: 80px;
+    height: 80px;
+    margin-left: 5px;
+    margin-top: 5px;
 }
 .person{
 	display:flex;
@@ -195,7 +201,7 @@ h4{
 #img4{
 	width: 100px;
 	height:100px;
-	float: right;
+	float: left;
 }
 #h01{
 	font-size: 17px;
@@ -528,25 +534,16 @@ h4{
 	margin-left: 0.1px;
 }
 #vrem{
-	padding: 5px 4px;
 	background-color: white;
-    width: 524px;
-    border-radius: 10px;
-    margin-left: 183px;
-    margin-top:-28px;
+    width: 970px;
 }
 #p24{
 	font-size: 11px;
 	color: #c55707;
 }
 #h17{
-	width: 524px;
     margin: 0px;
     background: #e4e6e8 !important;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    margin-left: -4px;
-    margin-top: -5px;
 }
 #a27{
 	color: #004369;
@@ -554,10 +551,10 @@ h4{
     font-size: 11px;
 }
 #padval{
-	height: 320px;
+	height: 125px;
     position: relative;
     background: #373c44;
-    width: 990px;
+    width: 970px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -565,8 +562,6 @@ h4{
 	display: flex;
     flex-direction: row;
     background-color: #99a1b1;
-    width: 970px;
-    padding: 20px;
 }
 #pp{
 	color: #ccc;
@@ -587,4 +582,12 @@ h4{
 #a28{
 	text-decoration: none;
 	color: #000;
+}
+#a30{
+	color: #333;
+	text-decoration: none;
+	font-size: 15px;
+}
+#Cont2img{
+	float: left;
 }
