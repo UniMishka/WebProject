@@ -1,5 +1,5 @@
 body{
-	background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(12,13,12,1) 0%, rgba(18,20,17,1) 20%, rgba(22,28,21,1) 40%, rgba(15,25,14,1) 60%, rgba(25,37,24,1) 80%, rgba(21,28,20,1) 100%);
+	background: linear-gradient(90deg, rgba(125,59,170,1) 2%, rgba(115,19,179,1) 14%, rgba(123,23,190,1) 20%, rgba(156,42,233,1) 28%, rgba(153,25,240,1) 33%, rgba(134,21,209,1) 37%, rgba(101,12,161,1) 42%, rgba(238,6,6,1) 47%, rgba(255,0,0,1) 51%, rgba(255,20,20,1) 54%, rgba(255,0,0,1) 56%, rgba(255,76,0,1) 60%, rgba(255,136,43,1) 64%, rgba(255,118,10,1) 70%, rgba(255,112,0,1) 76%, rgba(221,97,0,1) 82%, rgba(217,101,0,1) 87%);
 }
 #div1{
 	width: 970px;
@@ -224,7 +224,6 @@ h4{
     flex-direction: row;
     max-width: 950px;
     max-height: 106px;
-    border-radius: 10px;
     padding-top: 3px;
     padding-left: 3px;
     margin-left: -12px;
@@ -233,6 +232,7 @@ h4{
 	font-size: 11px;
 	color: #000000;
 	text-align: center;
+	text-decoration: none;
 }
 #img1{
 	justify-content: center;
@@ -332,7 +332,7 @@ h4{
     flex-direction: column;
     width: 285px;
     background-color: #e4e6e8;
-    height: 660px;
+    height: 662px;
     border-radius: 10px;
     margin-top: 109px;
     margin-left: 7px;
