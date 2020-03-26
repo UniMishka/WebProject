@@ -1,5 +1,5 @@
 body{
-	background: linear-gradient(90deg, rgba(125,59,170,1) 2%, rgba(115,19,179,1) 14%, rgba(123,23,190,1) 20%, rgba(156,42,233,1) 28%, rgba(153,25,240,1) 33%, rgba(134,21,209,1) 37%, rgba(101,12,161,1) 42%, rgba(238,6,6,1) 47%, rgba(255,0,0,1) 51%, rgba(255,20,20,1) 54%, rgba(255,0,0,1) 56%, rgba(255,76,0,1) 60%, rgba(255,136,43,1) 64%, rgba(255,118,10,1) 70%, rgba(255,112,0,1) 76%, rgba(221,97,0,1) 82%, rgba(217,101,0,1) 87%);
+	background-image: url(https://st.depositphotos.com/1000940/1453/v/950/depositphotos_14535087-stock-illustration-vector-seamless-pattern-with-social.jpg);
 }
 #div1{
 	width: 970px;
@@ -12,7 +12,7 @@ body{
 }
 #a1{
     color: #ffffff;
-    margin: 16;
+    margin-left:16;
 }
 #ul1 li{
 	display: inline;
@@ -153,7 +153,7 @@ body{
 #div6{
 	display: flex;
 	flex-direction: column;
-	background-color: #99a1b1;
+	background-color: #99A1F2;
 	width: 970px;
 	padding-top: 10px;
 	margin-top: -16px;
@@ -226,7 +226,6 @@ h4{
     max-height: 106px;
     padding-top: 3px;
     padding-left: 3px;
-    margin-left: -12px;
 }
 #a5{
 	font-size: 11px;
@@ -250,7 +249,7 @@ h4{
     border-radius: 10px;
     display: flex;
     flex-direction: column;
-    margin-left: 7px;
+    margin-left: 27px;
 }
 #h1{
 	background-color: #FFD98E;
@@ -268,11 +267,10 @@ h4{
 #mneniy{
 	display: flex;
     flex-direction: column;
-    width: 322px;
+    width: 305;
     background-color: white;
-    float: right;
     border-radius: 10px;
-    margin-left: 7px;
+    margin-left: 9px;
     height: 661px;
 }
 #p3{
@@ -331,7 +329,7 @@ h4{
 	display: flex;
     flex-direction: column;
     width: 285px;
-    background-color: #e4e6e8;
+    background-color: white;
     height: 662px;
     border-radius: 10px;
     margin-top: 109px;
@@ -380,7 +378,7 @@ h4{
 #GlawCont{
 	display: flex;
 	flex-direction: row;
-	background-color: #99a1b1;
+	background-color: #99A1F2;
 	width: 970px;
 	padding: 20px;
 }
@@ -402,8 +400,6 @@ h4{
 #glavn3{
 	display: flex;
 	flex-direction: column;
-	min-width: 230px;
-	float: right;
 }
 #div12{
     padding: 5px 4px;
@@ -540,6 +536,7 @@ h4{
 #vrem{
 	background-color: white;
     width: 970px;
+    margin: 10;
 }
 #p24{
 	font-size: 11px;
@@ -565,7 +562,7 @@ h4{
 #mglavn{
 	display: flex;
     flex-direction: row;
-    background-color: #99a1b1;
+    background-color: #99A1F2;
 }
 #pp{
 	color: #ccc;
@@ -618,4 +615,8 @@ h4{
     border-radius: 10px;
     margin-left: 7px;
     margin-top: 7px;
+}
+#ul1{
+	margin-top: 0px;
+	margin-block-end: 0em;
 }
