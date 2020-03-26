@@ -272,6 +272,7 @@ h4{
     border-radius: 10px;
     margin-left: 9px;
     height: 661px;
+    margin-left: 7px;
 }
 #p3{
 	font-size: 13px;
@@ -330,10 +331,11 @@ h4{
     flex-direction: column;
     width: 285px;
     background-color: white;
+    width: 287px;
+    background-color: #e4e6e8;
     height: 662px;
     border-radius: 10px;
-    margin-top: 109px;
-    margin-left: 7px;
+    margin-left: 5px;
 }
 #a12{
 	background: #c3d6e9;
@@ -396,10 +398,16 @@ h4{
 	flex-direction: column;
 	min-width: 230px;
 	float: left;
+    margin-left: 9px;
+    margin-top: 3px;
 }
 #glavn3{
 	display: flex;
 	flex-direction: column;
+    flex-direction: column;
+    min-width: 322px;
+    margin-left: 7px;
+    margin-top: 3px;
 }
 #div12{
     padding: 5px 4px;
@@ -408,7 +416,7 @@ h4{
     margin-left: 7px;
     margin-top: 7px;
     border-radius: 10px;
-    height: 575px;
+    height: 581px;
 }
 #h10{
 	background: #f3e7bd !important;
@@ -460,7 +468,7 @@ h4{
     border-radius: 10px;
     margin-left: 7px;
     margin-top: 7px;
-    height: 576px;
+    height: 581px;
 }
 #h12{
 	width: 322px;
@@ -505,7 +513,8 @@ h4{
     margin-top: -5px;
 }
 #glavn4{
-
+    margin-top: 113px;
+    margin-left: 7px;
 }
 #div16{
 	padding: 5px 4px;
@@ -514,7 +523,7 @@ h4{
     border-radius: 10px;
     margin-left: 7px;
     margin-top: 7px;
-    height: 1157px;	
+    height: 1168px;	
 }
 #h16{
 	width: 285px;
@@ -619,4 +628,10 @@ h4{
 #ul1{
 	margin-top: 0px;
 	margin-block-end: 0em;
+}
+#div144{
+    padding: 7px 0px;
+}
+#div1444{
+    padding: 20px 0px;
 }
