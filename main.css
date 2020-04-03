@@ -604,13 +604,6 @@ h4{
     margin-left: -958px;
 }
 #div199{
-	padding: 5px 4px;
-    background-color: white;
-    width: 322px;
-    border-radius: 10px;
-    margin-left: 7px;
-    margin-top: 7px;
-    height: 590px;
 }
 #p33{
 	font-size: 15px;
@@ -632,4 +625,8 @@ h4{
 }
 #div1444{
     padding: 20px 0px;
+}
+#slaid{
+    width: 970px;
+    height: 970px;
 }
