@@ -2,7 +2,7 @@ body{
 	background-image: url(https://st.depositphotos.com/1000940/1453/v/950/depositphotos_14535087-stock-illustration-vector-seamless-pattern-with-social.jpg);
 }
 #div1{
-	width: 970px;
+	width: 1050px;
 	margin: 0 auto;
 }
 #div2{
@@ -150,13 +150,9 @@ body{
 	display: flex;
 	flex-direction: column;
 }
-#div6{
-	display: flex;
-	flex-direction: column;
+.row{
 	background-color: #009F4A;
 	width: 970px;
-	padding-top: 10px;
-	margin-top: -16px;
 }
 h4{
 	font-size: 18px;
@@ -167,33 +163,17 @@ h4{
 	flex-direction: row;
 }
 #Cont1{
-	display: flex;
-	flex-direction: column;
-	width:314px;
-	min-height: 734px;
 	background-color: white;
 	border-radius: 10px;
 	padding: 5px 5px;
     margin: 2px 10px;
 }
 #Cont2{
-	    display: flex;
-    flex-direction: column;
-    max-width: 300px;
     background-color: white;
-    margin-left: 335px;
-    margin-top: -726px;
-    min-height: 726px;
     padding: 0px 10px;
     border-radius: 10px;
 }
 #Cont3{
-	display: flex;
-    flex-direction: column;
-    max-width: 310px;
-    min-height: 726px;
-    margin-left: 646px;
-    margin-top: -726px;
     border-radius: 10px;
     background-color: #fff;
 }
