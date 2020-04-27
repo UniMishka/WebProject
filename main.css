@@ -302,8 +302,7 @@ h4{
     height: 662px;
     border-radius: 10px;
     margin-left: 5px;
-    float: right;
-    margin-top: 112px;
+    margin-top: auto;
 }
 #a12{
 	background: #c3d6e9;
