@@ -205,7 +205,7 @@ h4{
     max-height: 106px;
     padding-top: 3px;
     padding-left: 3px;
-    margin-left: 10px;
+    margin-left: 32px;
 }
 #a5{
 	font-size: 11px;
@@ -545,7 +545,7 @@ h4{
     flex-direction: row;
     background-color: #009F4A;
     justify-content: center;
-    width: 400px;
+    width: 970px;
     margin: auto;
 }
 #pp{
