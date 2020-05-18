@@ -225,7 +225,10 @@ h4{
 }
 #chitaemoe{
 	background-color: white;
+    width: 322px;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
 }
 #h1{
 	background-color: #FFD98E;
@@ -233,8 +236,6 @@ h4{
     margin: 0px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    margin-left: -15px;
-    width: 276px;
 }
 #img2{
 	width:60px;
@@ -243,8 +244,12 @@ h4{
 	margin: 10px 10px;
 }
 #mneniy{
+    width: 305;
     background-color: white;
     border-radius: 10px;
+    margin-left: 9px;
+    height: 661px;
+    margin-left: 7px;
 }
 #p3{
 	font-size: 13px;
@@ -257,9 +262,9 @@ h4{
     border-style: solid;
     border-color: #FFB440;
     background-color: #FFB440;  
-    margin-left: 9px;   
+    margin-left: 9px;
     margin-right: 5px;
-    margin-top: 12px;   
+    margin-top: 12px;
 }
 #img3{
 	margin: 10px 10px;
@@ -299,7 +304,11 @@ h4{
 }
 #Russian{
     background-color: white;
+    width: 287px;
+    height: 662px;
     border-radius: 10px;
+    margin-left: 5px;
+    margin-top: auto;
 }
 #a12{
 	background: #c3d6e9;
@@ -373,27 +382,28 @@ h4{
     margin-top: 3px;
 }
 #div12{
+    padding: 5px 4px;
     background-color: white;
+    width: 322px;
     border-radius: 10px;
-    margin: 0 10;
+    height: 660px;
 }
 #h10{
 	background: #f3e7bd !important;
+    width: 322px;
     margin: 0px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     margin-left: -4px;
     margin-top: -5px;
-    width: 278px;
-    margin-left: -15px;
 }
 #a18{
     color: black;
 }
 #div19{
 	background-color: #f0eedc;
-    width: 278px;
-    margin-left: -15px;
+    margin-left: -4px;
+    width: 322px;
 }
 #img15{
 	width: 80px;
@@ -596,7 +606,4 @@ h4{
 #slaid{
     width: 970px;
     height: 970px;
-}
-#glaavn{
-    flex-wrap: inherit;
 }
