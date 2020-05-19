@@ -533,7 +533,6 @@ h4{
     font-size: 11px;
 }
 #padval{
-	height: 125px;
     position: relative;
     background: #373c44;
     width: 970px;
@@ -616,4 +615,7 @@ h4{
 } 
 #img2139284724{
     width: 138px;
+}
+#opros{
+    margin-left: 770px;
 }   
