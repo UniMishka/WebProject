@@ -619,4 +619,17 @@ h4{
 }
 #opros{
     margin-left: 770px;
-}   
+}
+$("#myCarousel").carousel({
+         interval : false
+});
+// stop carousel autoplay
+$('.carousel').carousel({
+    interval: 100000000
+})
+#carysel-1{
+// stop carousel autoplay
+$('.carousel').carousel({
+    interval: 100000000
+})
+}
