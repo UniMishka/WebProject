@@ -620,3 +620,6 @@ h4{
 #opros{
     margin-left: 770px;
 }
+var carousel = $("#carousel");
+carousel.owlCarousel();
+carousel.trigger("to.owl.carousel", [0, 500, true]);
